@@ -184,6 +184,11 @@ content:
     layout: list
     content:
     - layout: top-middle
+      title: Women in Leadership
+      sub_title: eCornell
+      caption: November 21, 2022
+      link: https://www.scrumalliance.org/community/profile/jmiceli
+    - layout: top-middle
       title: Certified Agile Leader
       sub_title: Scrum Alliance
       caption: Feb 2, 2022
