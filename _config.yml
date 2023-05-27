@@ -61,7 +61,7 @@ content:
       icon: images/taos.png
       sub_title: IBM (formerly Taos Mountain Inc)
       caption: December 2019 - Janurary 2021
-      link: https://www.taos.com
+      link: https://www.ibm.com
       #quote: >
       #  Emerging Technology Consulting and Managed Services
       #description: | # this will include new lines to allow paragraphs
@@ -103,7 +103,7 @@ content:
       icon: images/sensus.png
       sub_title: Xylem (formerly Sensus)
       caption: September 2013 - November 2014
-      link: https://www.sensus.com
+      link: https://www.xylem.com/en-us/
       #quote: >
       #   
       #description: | # this will include new lines to allow paragraphs
@@ -164,7 +164,7 @@ content:
     content:
     - layout: top-middle
       title: Master of Science
-      icon: images/uwmilwaukee.gif
+      icon: images/uwmilwaukee.png
       sub_title: University of Wisconsin - Milwaukee
       #quote: >
       #  Short institution or course description (optional)
@@ -172,7 +172,7 @@ content:
       link: http://www.worldcat.org/oclc/288956579
     - layout: top-middle
       title: Bachelor of Science
-      icon: images/uwmilwaukee.gif
+      icon: images/uwmilwaukee.png
       sub_title: University of Wisconsin - Milwaukee
       link: http://www.uwm.edu
       #quote: >
