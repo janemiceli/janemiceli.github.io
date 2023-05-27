@@ -19,7 +19,6 @@ email: jane+github@janemiceli.com
 darkmode: true
 
 # Social links
-twitter_username: janemiceli
 github_username:  janemiceli
 linkedin_username: janemiceli
 
@@ -151,7 +150,7 @@ content:
       #  Audited and wrote unit tests to ensure 80% automated test code coverage for all components on the team.          
     - layout: top-middle
       title: Software Test Engineer
-      sub_title: Rockwell Automation (formerly Rockwell Software, Icom)
+      sub_title: Rockwell Automation (formerly Rockwell Software)
       icon: images/ra.png
       #sub_title: Rockwell Automation
       caption: March 2002 - June 2007
@@ -270,8 +269,9 @@ content:
     - layout: top-middle
       title: Certified Scrum Master (CSM)
       sub_title: Scrum Alliance
-      caption: 2009
+      caption: Jun 6, 2009
       link: https://www.scrumalliance.org/community/profile/jmiceli
+      icon: images/seal-csm.png
       #quote: >
       #  Short institution or course description (optional)
       #description: | # this will include new lines to allow paragraphs
