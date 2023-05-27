@@ -19,8 +19,10 @@ email: jane+github@janemiceli.com
 darkmode: true
 
 # Social links
-github_username:  janemiceli
 linkedin_username: janemiceli
+orcid_username: 0000-0002-2754-1582
+github_username:  janemiceli
+gitlab_username: janemiceli
 
 # Additional icon links
 #additional_links:
@@ -42,7 +44,7 @@ linkedin_username: janemiceli
 about_profile_image: images/cloud_jane.jpg
 about_content: | # this will include new lines to allow paragraphs
   Experienced Engineering/IT leader with a strong impact and extensive knowledge in IT. Skilled in people-first leadership, team building, and guiding engineers to bring out their best ideas. Excited to tackle challenges and navigate obstacles to drive growth and scalability. Well-versed in Software Engineering, Architecture, DevOps, SRE, Operations, product management, Agile methodologies, and incident management. Demonstrates servant leadership, fosters psychological safety, and maintains strong relationships. Recognized as a thought leader and change agent.
-  
+
 content:
   - title: Experience
     layout: list
@@ -334,6 +336,10 @@ content:
       title: Boise Code Camp 
       sub_title: Board Member
       link: https://boisecodecamp.org
+    - layout: top-middle
+      title: DevOps Days Boise
+      sub_title: Board Member
+      link: https://devopsdays.org
     - layout: top-middle
       title: Stevens Henager College- Boise
       sub_title: Professional Advisory Committee
