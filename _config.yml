@@ -41,8 +41,8 @@ linkedin_username: janemiceli
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/cloud_jane.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Experienced and resourceful Senior Manager Site Reliability Engineering with proven impact and vast knowledge in SRE/DevOps. Practicing people-first leadership, excellent team building, analyzing, constructing, managing, and guiding.  Bringing out the best ideas from the best engineers by empowering them and leading with vision. Excited to tackle the challenges that come with growth and scale. Able to remove roadblocks, bureaucracy, and friction. Resilient and quickly able to respond and adapt. Understanding of theory and practice in DevOps/SRE. Obsessed with uptime, SLAs. Strives toward servant leadership. Fosters psychological safety on teams. Creates and maintains superb relationships with clients and employees. Strong demonstrated history of project management, process development, and continuous improvement. Makes time to reflect and purposefully improve. Interested in making sure clients have the right technology for their solutions.
-
+  Experienced Engineering/IT leader with a strong impact and extensive knowledge in IT. Skilled in people-first leadership, team building, and guiding engineers to bring out their best ideas. Excited to tackle challenges and navigate obstacles to drive growth and scalability. Well-versed in Software Engineering, Architecture, DevOps, SRE, Operations, product management, Agile methodologies, and incident management. Demonstrates servant leadership, fosters psychological safety, and maintains strong relationships. Recognized as a thought leader and change agent.
+  
 content:
   - title: Experience
     layout: list
@@ -189,32 +189,32 @@ content:
     - layout: top-middle
       title: Certified Agile Leader
       sub_title: Scrum Alliance
-      caption: Feb 2, 2022
+      caption: February 2, 2022
       link: https://www.scrumalliance.org/community/profile/jmiceli
     - layout: top-middle
       title: Scrum Foundations Educator
       sub_title: Scrum Alliance
-      caption: Feb 2, 2022
+      caption: February 2, 2022
       link: https://www.scrumalliance.org/community/profile/jmiceli
     - layout: top-middle
       title: Site Reliability Engineering - Measuring and Managing Reliability 
       sub_title: Coursera
-      caption: 2021
+      caption: February 2, 2021
       link: https://coursera.org/share/424f6dd1f7881ab1f684f6d7a5707273
     - layout: top-middle
       title: Certified Agile Leadership - Essentials (CAL-E)
       sub_title: Scrum Alliance
-      caption: 2021
+      caption: February 2, 2021
       link: https://www.scrumalliance.org/community/profile/jmiceli
     - layout: top-middle
       title: Certified Agile Leadership - Teams (CAL-T)
       sub_title: Scrum Alliance
-      caption: 2021
+      caption: February 2, 2021
       link: https://www.scrumalliance.org/community/profile/jmiceli
     - layout: top-middle
       title: Advanced Certified Scrum Master (ACSM)
       sub_title: Scrum Alliance
-      caption: 2021
+      caption: Janurary 18, 2021
       link: https://www.scrumalliance.org/community/profile/jmiceli
       #quote: >
       #  Short institution or course description (optional)
@@ -241,7 +241,7 @@ content:
     - layout: top-middle
       title: Certified Scrum Product Owner (CSPO)
       sub_title: Scrum Alliance
-      caption: 2016
+      caption: April 8, 2016
       link: https://www.scrumalliance.org/community/profile/jmiceli
       #quote: >
       #  Short institution or course description (optional)
@@ -250,7 +250,7 @@ content:
     - layout: top-middle
       title: Certified Scrum Professional (CSP) 
       sub_title: Scrum Alliance
-      caption: 2014
+      caption: June 23, 2014
       link: https://www.scrumalliance.org/community/profile/jmiceli
       #quote: >
       #  Short institution or course description (optional)
@@ -268,7 +268,7 @@ content:
     - layout: top-middle
       title: Certified Scrum Master (CSM)
       sub_title: Scrum Alliance
-      caption: Jun 6, 2009
+      caption: June 6, 2009
       link: https://www.scrumalliance.org/community/profile/jmiceli
       #quote: >
       #  Short institution or course description (optional)
