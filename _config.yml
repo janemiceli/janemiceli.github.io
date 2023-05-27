@@ -57,7 +57,7 @@ content:
       #  Emerging Technology Consulting and Managed Services
       #description: | # this will include new lines to allow paragraphs
     - layout: top-middle
-      title: Principal Engineer and Lead, DevOps Now
+      title: Principal Engineer and Team Lead, DevOps Now
       icon: images/taos.png
       sub_title: IBM (formerly Taos Mountain Inc)
       caption: December 2019 - Janurary 2021
@@ -89,7 +89,7 @@ content:
       #description: | # this will include new lines to allow paragraphs
       #  
     - layout: top-middle
-      title: Site Reliability Engineer
+      title: Lead, Senior Site Reliability Engineer
       icon: images/hp.png
       sub_title: HP Inc (formerly Hewlett-Packard)
       caption: November 2014 - February 2018
@@ -186,7 +186,6 @@ content:
       title: Women in Leadership
       sub_title: eCornell
       caption: November 21, 2022
-      link: https://www.scrumalliance.org/community/profile/jmiceli
     - layout: top-middle
       title: Certified Agile Leader
       sub_title: Scrum Alliance
@@ -271,7 +270,6 @@ content:
       sub_title: Scrum Alliance
       caption: Jun 6, 2009
       link: https://www.scrumalliance.org/community/profile/jmiceli
-      icon: images/seal-csm.png
       #quote: >
       #  Short institution or course description (optional)
       #description: | # this will include new lines to allow paragraphs
