@@ -11,6 +11,7 @@
 
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
+    {%- include statcounter.html -%}
   {%- endif -%}
   {%- if jekyll.environment == 'production' and site.gtm -%}
     {%- include gtm_head.html -%}

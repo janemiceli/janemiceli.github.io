@@ -348,6 +348,16 @@ content:
       sub_title: Professional Advisory Committee
       link: https://www.stevenshenager.edu
 
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# StataCounter
+sc_project: "12886079"
+sc_invisible: "1"
+sc_security: "850e4637"
+
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
