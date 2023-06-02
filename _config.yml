@@ -46,7 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
   Experienced Engineering / IT leader with a strong impact and extensive knowledge in IT. Skilled in people-first leadership, team building, and guiding engineers to bring out their best ideas. Excited to tackle challenges and navigate obstacles to drive growth and scalability. Well-versed in Software Engineering, Architecture, DevOps, SRE, Operations, product management, Agile methodologies, and incident management. Demonstrates servant leadership, fosters psychological safety, and maintains strong relationships. Recognized as a thought leader and change agent.
 
 allgitcontributiongraph_image: http://www.allgitcontributiongraph.com/justgraphit.svg?gitlab=janemiceli&github=janemiceli
-allgitcontributiongraph_content: This is a dynamic graph that includes both my github.com and gitlab.com contributions. You can also combine yours (public git contributions only) if you go to this link and add your github and gitlab profile usernames. http://www.allgitcontributiongraph.com/justgraphit.svg?gitlab=gitlabusername&github=githubusername. For instance, mine is http://www.allgitcontributiongraph.com/justgraphit.svg?gitlab=janemiceli&github=janemiceli.
+allgitcontributiongraph_content: This is a dynamic graph that includes both my github.com and gitlab.com contributions. See how I did it at <a href="http://www.allgitcontributiongraph.com/">http://www.allgitcontributiongraph.com/</a>
 
 content:
   - title: Experience
